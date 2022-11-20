@@ -9,5 +9,4 @@ function App() {
     </div>
   );
 }
-console.log("ho")
 export default App;
